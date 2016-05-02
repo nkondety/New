@@ -4,5 +4,6 @@ public class NarenMain {
 		NarenFirstClass nf= new NarenFirstClass();
 		nf.sub();
 		nf.add();
+		nf.mult();
 	}
 }
