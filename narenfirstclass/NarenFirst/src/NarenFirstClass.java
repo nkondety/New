@@ -8,5 +8,7 @@ public class NarenFirstClass {
 	}
 	public void mult(){
 		System.out.println("this is Naren Mult method");
+		
+		//comments 
 	}
 }
