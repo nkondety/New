@@ -6,6 +6,8 @@ public class NarenMain {
 		nf.add();
 		nf.mult();
 		
+		System.out.println("this is main method");
+		
 		//comments added
 	}
 }
